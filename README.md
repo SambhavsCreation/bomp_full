@@ -1,7 +1,7 @@
 # CSM Lab Frontend
 
-This is a simple Next.js + Tailwind CSS frontend for authentication pages.
-It features smooth animations and highlights how CSM Lab automates industrial experimentation using Bayesian Optimisation.
+This is a sleek Next.js + Tailwind CSS frontend for authentication pages.
+It features a dark theme with stylish Inter typography and smooth animations, highlighting how CSM Lab automates industrial experimentation using Bayesian Optimisation.
 
 Run the development server with:
 
