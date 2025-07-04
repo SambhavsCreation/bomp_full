@@ -10,6 +10,7 @@ export default function Home() {
       <div className="flex space-x-4 animate-slide-up" style={{animationDelay: '0.2s'}}>
         <Link href="/login" className="inline-block px-6 py-2 bg-blue-600 rounded-full text-white font-semibold shadow hover:bg-blue-700 transition">Login</Link>
         <Link href="/signup" className="inline-block px-6 py-2 bg-white text-blue-600 rounded-full font-semibold shadow hover:bg-gray-100 transition">Sign up</Link>
+
       </div>
     </div>
   )

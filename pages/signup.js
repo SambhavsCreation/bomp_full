@@ -36,6 +36,7 @@ export default function Signup() {
         </div>
         <button type="submit" className="w-full bg-blue-600 text-white py-2 rounded-full font-semibold hover:bg-blue-700 transition">Sign up</button>
         <p className="text-center text-sm mt-4">Have an account? <Link href="/login" className="text-blue-400 hover:underline">Login</Link></p>
+
       </form>
     </div>
   )
